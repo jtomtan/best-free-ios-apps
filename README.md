@@ -29,6 +29,8 @@ Welcome to my curated list of the absolute best, must-have free apps for iOS. Fi
 | 🌧️ | **Rain Alarm** | Weather | Highly accurate, real-time rain monitoring and precipitation alerts. | [Download](https://apps.apple.com/hu/app/rain-alarm/id397676100) |
 | 📶 | **Airvoy eSIM** | Travel / Utility | Get a free eSIM and data just by watching ads while connected to WiFi. Perfect for travel. | [Download](https://apps.apple.com/hu/app/airvoy-esim/id6751522296) |
 
+| 🔏 | **BitTool Signer** | Finance / Security | Offline QR signing on a dedicated iPhone, with local key storage and on-device request review. No independent security audit. | [Download](https://apps.apple.com/app/id6823781498) |
+
 ---
 
 
